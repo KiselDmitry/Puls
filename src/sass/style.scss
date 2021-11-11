@@ -3,9 +3,6 @@
 * {
 	font-family: 'Museo Sans Cyrl', sans-serif;
 	}
-// a {
-// 	text-decoration: none;
-// }
 
 .container {
     max-width: 950px;
@@ -17,3 +14,5 @@
 @import 'blocks/buttons';
 @import 'blocks/advantages';
 @import 'blocks/titles';
+@import 'blocks/consultation';
+@import 'blocks/form';
